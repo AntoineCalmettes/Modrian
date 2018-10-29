@@ -1,0 +1,196 @@
+body {
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+}
+.bg-purple{
+background-color: purple !important;
+}
+
+
+.bg-white {
+  background-color: white !important;
+}
+.bg-yellow {
+  background-color: yellow !important;
+}
+
+.bg-red {
+  background-color: red !important;
+}
+
+.bg-blue {
+  background-color: blue !important;
+}
+
+.premiere-ligne {
+  height: 30%;
+  background-color: ;
+  border-top: 3px black solid;
+  border-right: 8px black solid;
+  border-bottom: 20px black solid;
+  display: flex;
+}
+
+.deuxieme-ligne {
+  height: 30%;
+  background-color: ;
+  border-top: 3px black solid;
+  border-right: 8px black solid;
+  border-bottom: 20px black solid;
+  display: flex;
+}
+.row{
+display: flex;
+}
+.row3et4{
+  width: 100%;
+height: 100%;
+}
+.troisieme-ligne {
+  height: 40%;
+  background-color: ;
+  border-top: 3px black solid;
+  display: flex;
+}
+.quatrieme-ligne {
+  height: 40%;
+  background-color: ;
+  border-top: 3px black solid;
+  display: flex;
+}
+.div1-1 {
+  background-color: ;
+  border-right: 20px black solid;
+  flex-direction: column;
+  width: 2%;
+  height: 300px;
+}
+
+.div2-1 {
+  background-color: ;
+  border-right: 20px black solid;
+  flex-direction: column;
+  width: 2%;
+  height: 300px;
+}
+
+.div3-1 {
+  background-color: ;
+  border-right: 20px black solid;
+  flex-direction: column;
+  width: 2%;
+  height: 346px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.div1-2 {
+  background-color: ;
+  border-right: 20px black solid;
+  height: 300px;
+  width: 9.5%;
+}
+
+.div1-3 {
+  background-color: ;
+  border-right: 20px black solid;
+  height: 300px;
+  width: 36.5%;
+}
+
+.div1-4 {
+  background-color: ;
+  border-right: 20px black solid;
+  height: 300px;
+  width: 50.5%;
+}
+
+.div2-2 {
+  background-color: ;
+  border-right: 20px black solid;
+  height: 300px;
+  width: 10%;
+}
+
+.div2-3 {
+  background-color: ;
+  border-right: 20px black solid;
+  height: 300px;
+  width: 39%;
+}
+
+.div2-4 {
+  background-color: ;
+  border-right: 20px black solid;
+  height: 300px;
+  width: 20%;
+}
+
+.div2-5 {
+  background-color: ;
+  border-right: 20px black solid;
+  height: 300px;
+  width: 32%;
+}
+
+.div3-2 {
+  background-color: ;
+  border-right: 20px black solid;
+  height: 150px;
+  width: 9.25%;
+  border-bottom: 20px black solid;
+}
+
+.div3-3 {
+  background-color: ;
+  border-right: 20px black solid;
+  height: 150px;
+  width: 56%;
+border-bottom: 20px black solid;
+}
+
+.div3-4 {
+  background-color: ;
+  border-right: 20px black solid;
+  height: 150px;
+  width: 30.25%;
+  border-bottom: 20px black solid;
+}
+.row{
+
+}
+.div4-2 {
+  background-color: ;
+  border-right: 20px black solid;
+  height: 150px;
+  width: 9.25%;
+  border-bottom: 20px black solid;
+}
+.div4-3 {
+  background-color: ;
+  border-right: 20px black solid;
+  height: 150px;
+  width: 56%;
+border-bottom: 20px black solid;
+}
+.div4-4 {
+  background-color: ;
+  height: 150px;
+  width: 31.75%;
+border-bottom: 20px black solid;
+}
+/* .div1-1 {
+  height: 300px;
+  width: 50px;
+  background-color: white;
+     border-right :3px black solid;
+         border-bottom: 3px black solid;
+}
+.div1-2 {
+  height: 300px;
+  width: 50px;
+  background-color: white;
+     border-right :3px black solid;
+         border-bottom: 3px black solid;
+} */
